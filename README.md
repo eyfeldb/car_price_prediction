@@ -1,5 +1,5 @@
 # car_price_prediction
-Second practical assignment
+Second practical assignment. Used car price predictions:
 
   After careful analysis of provided data on more than 400k sales of used vehicles, the team was able to build a linear regression model predicting sale price based on a number of characteristics of each vehicle (model, condition, age, etc.) with average accuracy of +/- 20%. 
   
